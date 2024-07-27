@@ -12,6 +12,6 @@ I'm a **Full Stack Web Developer** passionate about creating visually stunning a
 - **SQL & MySQL**: Managing and querying databases.
 
 If you’re looking for a detail-oriented developer who combines technical expertise with a strong work ethic, I’d be excited to discuss how we can collaborate!
-
 Feel free to reach out. Let’s build something amazing together! 🌟
+Connect with me on [LinkedIn](https://www.linkedin.com/in/asma-kamran-40b99b277/).
 
